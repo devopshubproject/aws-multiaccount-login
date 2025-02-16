@@ -31,7 +31,7 @@ _📌 Solution Considerations_
 
 - Infrastructure as Code (IaC) Compatible – The role-based authentication setup aligns with best practices for multi-account AWS architectures.
 
-- Web-Based UI – Built with Flask + HTML for a simple and effective user experience.
+- Web-Based UI – Built with Flask + HTML + TailWind CSS for a simple and effective user experience.
 
 _ 🛠 Technology Stack_
 
