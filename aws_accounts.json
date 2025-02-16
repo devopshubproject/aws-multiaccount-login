@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "hub",
+        "account_id": "<aws-account-ids>",
+        "role_name": "Assumerole"
+    },
+    {
+        "name": "spoke1",
+        "account_id": "<aws-account-ids>",
+        "role_name": "Assumerole"
+    },
+    {
+        "name": "spoke2",
+        "account_id": "<aws-account-ids>",
+        "role_name": "Assumerole"
+    },
+    {
+        "name": "spoke3",
+        "account_id": "<aws-account-ids>",
+        "role_name": "Assumerole"
+    }
+]
